@@ -1,8 +1,13 @@
 # my_app
 
-A new Flutter project.
-
 ## Getting Started
+
+User Journey
+1.Open the application
+2. Carry out self registration
+3. Login using your credentials
+4. enter your token to add users then user details that will be email and name
+5.View added users by your account
 
 This project is a starting point for a Flutter application.
 
